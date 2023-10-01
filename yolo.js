@@ -1,1 +1,1 @@
-consol.log("Hello yolo")
+consol.log("Hello yolo badge")
